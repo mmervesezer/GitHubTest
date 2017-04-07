@@ -6,3 +6,4 @@ test file merge test
 "test file" 
 "additional test and test additional" 
 "fasafiso" 
+"aa aa" 
