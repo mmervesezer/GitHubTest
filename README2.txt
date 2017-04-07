@@ -7,3 +7,4 @@ test file merge test
 "additional test and test additional" 
 "fasafiso" 
 "aa aa" 
+"new comment on README2.txt" 
