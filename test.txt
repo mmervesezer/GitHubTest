@@ -4,5 +4,9 @@ changee
 
 "aa" 
 "djksjkf" 
+<<<<<<< HEAD
 "slskfjsklfm" 
 "tet line" 
+=======
+"2" 
+>>>>>>> branchTest
